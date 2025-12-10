@@ -1,0 +1,24 @@
+# Ignore all data folders
+data/raw/
+data/processed/
+data/features/
+
+# Ignore all CSV files (dataset files)
+*.csv
+
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore parquet files
+*.parquet
+
+# Ignore pickle files
+*.pkl
+
+# Ignore zip / compressed data
+*.zip
+*.gz
+
+# Ignore temporary notebook checkpoints
+.ipynb_checkpoints/
