@@ -21,7 +21,7 @@ This project uses the Instacart Market Basket Analysis dataset:
 ## Workload
 -Abdullah: EDA,Preprocess,Merging,Feature engineering,outliers detection,Encoding comparison, classification task implemented logistic,KNN,LinearSVC,Decision Tree (files 01 and 02).
 
--Yasser: Regression Task -> linear,ridge,random forest.(file 04)
+-Yasser: Regression Task -> linear,ridge,random forest.(file 03)
 
 ## Notes
 -We finshed 30% ~ 40% from the project.
