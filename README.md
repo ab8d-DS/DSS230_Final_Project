@@ -24,5 +24,5 @@ This project uses the Instacart Market Basket Analysis dataset:
 -Yasser: Regression Task -> linear,ridge,random forest.(file 03)
 
 ## Notes
--We finshed 30% ~ 40% from the project.
--Each one is expected to know and understand his (OWN WORK) i hope. 
+-We finshed 50% ~ 60% from the project.
+-Each one is expected to know and understand his work. 
